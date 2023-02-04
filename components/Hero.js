@@ -16,21 +16,21 @@ export default function Hero() {
               Developer.
             </h1>
           </RainbowHighlight>
-          <RainbowHighlight color={colors[1]}>
+          {/* <RainbowHighlight color={colors[1]}>
             <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
               Designer.
             </h1>
-          </RainbowHighlight>
+          </RainbowHighlight> */}
           <RainbowHighlight color={colors[2]}>
             <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
               Programmer.
             </h1>
           </RainbowHighlight>
-          <RainbowHighlight color={colors[3]}>
+          {/* <RainbowHighlight color={colors[3]}>
             <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
               Youtuber.
             </h1>
-          </RainbowHighlight>
+          </RainbowHighlight> */}
         </RoughNotationGroup>
       </div>
       {/* Image container */}
