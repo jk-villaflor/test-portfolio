@@ -78,8 +78,8 @@ export default function FavouriteProjects() {
             // href="https://manuarora.in"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
           >
-            <div className="relative overflow-hidden shadow-2xl">
-              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+            {/* <div className="relative overflow-hidden shadow-2xl">
+              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> 
               <img
                 src="/portfolio.png"
                 alt="portfolio"
@@ -91,7 +91,7 @@ export default function FavouriteProjects() {
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 03
               </h1>
-            </div>
+            </div> */}
           </a>
         </div>
       </div>

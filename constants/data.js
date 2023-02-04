@@ -14,7 +14,7 @@ const userData = {
     },
     {
       title: "Labhero",
-      // link: "https://placeholdertech.in",
+      link: "https://dxvista.com",
       imgUrl: "/labhero.png",
     },
     // {
