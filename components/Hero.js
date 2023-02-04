@@ -41,8 +41,8 @@ export default function Hero() {
             <div className="flex flex-row space-x-4">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
+                width="15"
+                height="15"
                 fill="currentColor"
                 className="bi bi-arrow-90deg-up"
                 viewBox="0 0 16 16"

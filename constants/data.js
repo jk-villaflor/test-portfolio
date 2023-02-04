@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "jk-villaflor",
   name: "John-Kevin Villaflor",
   designation: "Full-Stack Developer",
-  avatarUrl: "",
+  avatarUrl: "/resources/imgs/me.png",
   email: "jakevillaflor@gmail.com",
   phone: "+971505637076",
   address: "Dubai, UAE",
@@ -10,12 +10,12 @@ const userData = {
     {
       title: "RevHero",
       // link: "https://tailwindmasterkit.com",
-      // imgUrl: "/tmk.jpg",
+      imgUrl: "/revhero.png",
     },
     {
       title: "Labhero",
       // link: "https://placeholdertech.in",
-      // imgUrl: "/placeholdertech.png",
+      imgUrl: "/labhero.png",
     },
     // {
     //   title: "Portfolio",
@@ -87,9 +87,9 @@ const userData = {
     //   desc: "Provided technical and customer service assistance to clients through phone.",
     // },
   ],
-  resumeUrl: '',
-  // resumeUrl:
-  //   "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+  // resumeUrl: '',
+  resumeUrl:
+    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/omnibujek",
     // twitter: "https://twitter.com/mannupaaji",
