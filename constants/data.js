@@ -89,7 +89,7 @@ const userData = {
   ],
   // resumeUrl: '',
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1no3VYZGKGPyOPG_aRWv_q7V4Ijn4J-Ot/view?usp=share_link",
   socialLinks: {
     instagram: "https://instagram.com/omnibujek",
     // twitter: "https://twitter.com/mannupaaji",
